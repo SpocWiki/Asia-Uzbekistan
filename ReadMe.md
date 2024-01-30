@@ -110,8 +110,8 @@ id: Uzbekistan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Uzbekistan//
-markerFolder: ./Uzbekistan///
+geojsonFolder: .//
+markerFolder: .///
 ```
 
 [name-en::Uzbekistan] 
