@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.45,59.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Nukus|Nukus]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nukus.public|Nukus.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nukus.internal|Nukus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nukus.protect|Nukus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nukus.private|Nukus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nukus.personal|Nukus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nukus.secret|Nukus.secret]] 
+
+### #is_/same_as :: [Nukus](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.md) 
+
+### #is_/same_as :: [Nukus.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.public.md) 
+
+### #is_/same_as :: [Nukus.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.internal.md) 
+
+### #is_/same_as :: [Nukus.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.protect.md) 
+
+### #is_/same_as :: [Nukus.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.private.md) 
+
+### #is_/same_as :: [Nukus.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.personal.md) 
+
+### #is_/same_as :: [Nukus.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.secret.md)
+

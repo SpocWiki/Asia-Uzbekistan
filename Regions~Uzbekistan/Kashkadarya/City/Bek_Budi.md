@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.83,65.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Bek_Budi|Bek_Budi]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Bek_Budi.public|Bek_Budi.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bek_Budi.internal|Bek_Budi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bek_Budi.protect|Bek_Budi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bek_Budi.private|Bek_Budi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bek_Budi.personal|Bek_Budi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bek_Budi.secret|Bek_Budi.secret]] 
+
+### #is_/same_as :: [Bek_Budi](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.md) 
+
+### #is_/same_as :: [Bek_Budi.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.public.md) 
+
+### #is_/same_as :: [Bek_Budi.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.internal.md) 
+
+### #is_/same_as :: [Bek_Budi.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.protect.md) 
+
+### #is_/same_as :: [Bek_Budi.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.private.md) 
+
+### #is_/same_as :: [Bek_Budi.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.personal.md) 
+
+### #is_/same_as :: [Bek_Budi.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.secret.md)
+

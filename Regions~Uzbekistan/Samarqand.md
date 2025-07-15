@@ -40,11 +40,18 @@ markerFolder: ./Samarkand/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Samarkand|Samarkand]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Samarkand.public|Samarkand.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Samarkand.internal|Samarkand.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Samarkand.protect|Samarkand.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Samarkand.private|Samarkand.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Samarkand.personal|Samarkand.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Samarkand.secret|Samarkand.secret]] 
+
+### #is_/same_as :: [Samarqand](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand.md) 
+
+### #is_/same_as :: [Samarqand.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand.public.md) 
+
+### #is_/same_as :: [Samarqand.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand.internal.md) 
+
+### #is_/same_as :: [Samarqand.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand.protect.md) 
+
+### #is_/same_as :: [Samarqand.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand.private.md) 
+
+### #is_/same_as :: [Samarqand.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand.personal.md) 
+
+### #is_/same_as :: [Samarqand.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand.secret.md)
 

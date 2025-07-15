@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.53,70.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Chokand|Chokand]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chokand.public|Chokand.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chokand.internal|Chokand.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chokand.protect|Chokand.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chokand.private|Chokand.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chokand.personal|Chokand.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chokand.secret|Chokand.secret]] 
+
+### #is_/same_as :: [Chokand](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Chokand.md) 
+
+### #is_/same_as :: [Chokand.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Chokand.public.md) 
+
+### #is_/same_as :: [Chokand.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Chokand.internal.md) 
+
+### #is_/same_as :: [Chokand.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Chokand.protect.md) 
+
+### #is_/same_as :: [Chokand.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Chokand.private.md) 
+
+### #is_/same_as :: [Chokand.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Chokand.personal.md) 
+
+### #is_/same_as :: [Chokand.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Chokand.secret.md)
+

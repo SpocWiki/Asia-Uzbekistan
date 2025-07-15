@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.5,70.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kokand|Kokand]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kokand.public|Kokand.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kokand.internal|Kokand.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kokand.protect|Kokand.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kokand.private|Kokand.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kokand.personal|Kokand.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kokand.secret|Kokand.secret]] 
+
+### #is_/same_as :: [Kokand](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Kokand.md) 
+
+### #is_/same_as :: [Kokand.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Kokand.public.md) 
+
+### #is_/same_as :: [Kokand.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Kokand.internal.md) 
+
+### #is_/same_as :: [Kokand.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Kokand.protect.md) 
+
+### #is_/same_as :: [Kokand.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Kokand.private.md) 
+
+### #is_/same_as :: [Kokand.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Kokand.personal.md) 
+
+### #is_/same_as :: [Kokand.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Kokand.secret.md)
+

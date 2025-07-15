@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.38,60.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Chiwa|Chiwa]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chiwa.public|Chiwa.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chiwa.internal|Chiwa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chiwa.protect|Chiwa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chiwa.private|Chiwa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chiwa.personal|Chiwa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chiwa.secret|Chiwa.secret]] 
+
+### #is_/same_as :: [Chiwa](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm/City/Chiwa.md) 
+
+### #is_/same_as :: [Chiwa.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm/City/Chiwa.public.md) 
+
+### #is_/same_as :: [Chiwa.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm/City/Chiwa.internal.md) 
+
+### #is_/same_as :: [Chiwa.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm/City/Chiwa.protect.md) 
+
+### #is_/same_as :: [Chiwa.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm/City/Chiwa.private.md) 
+
+### #is_/same_as :: [Chiwa.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm/City/Chiwa.personal.md) 
+
+### #is_/same_as :: [Chiwa.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm/City/Chiwa.secret.md)
+

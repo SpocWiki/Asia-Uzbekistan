@@ -40,11 +40,18 @@ markerFolder: ./Kashkadarya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya|Kashkadarya]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.public|Kashkadarya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.internal|Kashkadarya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.protect|Kashkadarya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.private|Kashkadarya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.personal|Kashkadarya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.secret|Kashkadarya.secret]] 
+
+### #is_/same_as :: [Kashkadarya](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya.md) 
+
+### #is_/same_as :: [Kashkadarya.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya.public.md) 
+
+### #is_/same_as :: [Kashkadarya.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya.internal.md) 
+
+### #is_/same_as :: [Kashkadarya.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya.protect.md) 
+
+### #is_/same_as :: [Kashkadarya.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya.private.md) 
+
+### #is_/same_as :: [Kashkadarya.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya.personal.md) 
+
+### #is_/same_as :: [Kashkadarya.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya.secret.md)
 

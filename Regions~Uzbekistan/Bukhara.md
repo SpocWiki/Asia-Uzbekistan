@@ -40,11 +40,18 @@ markerFolder: ./Bukhoro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro|Bukhoro]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.public|Bukhoro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.internal|Bukhoro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.protect|Bukhoro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.private|Bukhoro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.personal|Bukhoro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Bukhoro.secret|Bukhoro.secret]] 
+
+### #is_/same_as :: [Bukhara](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara.md) 
+
+### #is_/same_as :: [Bukhara.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara.public.md) 
+
+### #is_/same_as :: [Bukhara.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara.internal.md) 
+
+### #is_/same_as :: [Bukhara.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara.protect.md) 
+
+### #is_/same_as :: [Bukhara.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara.private.md) 
+
+### #is_/same_as :: [Bukhara.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara.personal.md) 
+
+### #is_/same_as :: [Bukhara.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara.secret.md)
 

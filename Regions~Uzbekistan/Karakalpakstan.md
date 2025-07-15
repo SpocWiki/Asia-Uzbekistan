@@ -40,11 +40,18 @@ markerFolder: ./Karakalpakstan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan|Karakalpakstan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.public|Karakalpakstan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.internal|Karakalpakstan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.protect|Karakalpakstan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.private|Karakalpakstan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.personal|Karakalpakstan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Karakalpakstan.secret|Karakalpakstan.secret]] 
+
+### #is_/same_as :: [Karakalpakstan](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.md) 
+
+### #is_/same_as :: [Karakalpakstan.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.public.md) 
+
+### #is_/same_as :: [Karakalpakstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.internal.md) 
+
+### #is_/same_as :: [Karakalpakstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.protect.md) 
+
+### #is_/same_as :: [Karakalpakstan.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.private.md) 
+
+### #is_/same_as :: [Karakalpakstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.personal.md) 
+
+### #is_/same_as :: [Karakalpakstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.secret.md)
 

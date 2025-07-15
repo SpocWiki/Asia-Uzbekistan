@@ -133,10 +133,4 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Uzbekistan|Uzbekistan]] 
-- [[../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan.internal|Uzbekistan.internal]] 
-- [[../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan.protect|Uzbekistan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan.private|Uzbekistan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan.personal|Uzbekistan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan.secret|Uzbekistan.secret]] 
+

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Manghit|Manghit]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Manghit.public|Manghit.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Manghit.internal|Manghit.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Manghit.protect|Manghit.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Manghit.private|Manghit.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Manghit.personal|Manghit.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Manghit.secret|Manghit.secret]] 
+
+### #is_/same_as :: [Manghit](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Manghit.md) 
+
+### #is_/same_as :: [Manghit.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Manghit.public.md) 
+
+### #is_/same_as :: [Manghit.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Manghit.internal.md) 
+
+### #is_/same_as :: [Manghit.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Manghit.protect.md) 
+
+### #is_/same_as :: [Manghit.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Manghit.private.md) 
+
+### #is_/same_as :: [Manghit.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Manghit.personal.md) 
+
+### #is_/same_as :: [Manghit.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Manghit.secret.md)
+

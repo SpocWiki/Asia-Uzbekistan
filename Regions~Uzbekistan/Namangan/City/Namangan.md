@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41,71.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Namangan|Namangan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Namangan.public|Namangan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Namangan.internal|Namangan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Namangan.protect|Namangan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Namangan.private|Namangan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Namangan.personal|Namangan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Namangan.secret|Namangan.secret]] 
+
+### #is_/same_as :: [Namangan](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Namangan/City/Namangan.md) 
+
+### #is_/same_as :: [Namangan.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Namangan/City/Namangan.public.md) 
+
+### #is_/same_as :: [Namangan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Namangan/City/Namangan.internal.md) 
+
+### #is_/same_as :: [Namangan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Namangan/City/Namangan.protect.md) 
+
+### #is_/same_as :: [Namangan.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Namangan/City/Namangan.private.md) 
+
+### #is_/same_as :: [Namangan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Namangan/City/Namangan.personal.md) 
+
+### #is_/same_as :: [Namangan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Namangan/City/Namangan.secret.md)
+

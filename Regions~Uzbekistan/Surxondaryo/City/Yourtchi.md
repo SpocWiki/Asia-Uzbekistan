@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.33,67.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Yourtchi|Yourtchi]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Yourtchi.public|Yourtchi.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yourtchi.internal|Yourtchi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yourtchi.protect|Yourtchi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yourtchi.private|Yourtchi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Yourtchi.personal|Yourtchi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Yourtchi.secret|Yourtchi.secret]] 
+
+### #is_/same_as :: [Yourtchi](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.md) 
+
+### #is_/same_as :: [Yourtchi.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.public.md) 
+
+### #is_/same_as :: [Yourtchi.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.internal.md) 
+
+### #is_/same_as :: [Yourtchi.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.protect.md) 
+
+### #is_/same_as :: [Yourtchi.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.private.md) 
+
+### #is_/same_as :: [Yourtchi.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.personal.md) 
+
+### #is_/same_as :: [Yourtchi.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.secret.md)
+

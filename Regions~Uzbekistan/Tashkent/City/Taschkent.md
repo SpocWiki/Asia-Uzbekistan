@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/City/Taschkent|Taschkent]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/City/Taschkent.public|Taschkent.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/City/Taschkent.internal|Taschkent.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/City/Taschkent.protect|Taschkent.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/City/Taschkent.private|Taschkent.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/City/Taschkent.personal|Taschkent.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/City/Taschkent.secret|Taschkent.secret]] 
+
+### #is_/same_as :: [Taschkent](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.md) 
+
+### #is_/same_as :: [Taschkent.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.public.md) 
+
+### #is_/same_as :: [Taschkent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.internal.md) 
+
+### #is_/same_as :: [Taschkent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.protect.md) 
+
+### #is_/same_as :: [Taschkent.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.private.md) 
+
+### #is_/same_as :: [Taschkent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.personal.md) 
+
+### #is_/same_as :: [Taschkent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.secret.md)
+

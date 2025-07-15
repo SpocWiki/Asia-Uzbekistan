@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.38,71.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Fergana|Fergana]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Fergana.public|Fergana.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Fergana.internal|Fergana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Fergana.protect|Fergana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Fergana.private|Fergana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Fergana.personal|Fergana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Fergana.secret|Fergana.secret]] 
+
+### #is_/same_as :: [Fergana](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Fergana.md) 
+
+### #is_/same_as :: [Fergana.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Fergana.public.md) 
+
+### #is_/same_as :: [Fergana.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Fergana.internal.md) 
+
+### #is_/same_as :: [Fergana.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Fergana.protect.md) 
+
+### #is_/same_as :: [Fergana.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Fergana.private.md) 
+
+### #is_/same_as :: [Fergana.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Fergana.personal.md) 
+
+### #is_/same_as :: [Fergana.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Fergana.secret.md)
+

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Andidjan|Andidjan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Andidjan.public|Andidjan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Andidjan.internal|Andidjan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Andidjan.protect|Andidjan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Andidjan.private|Andidjan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Andidjan.personal|Andidjan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Andidjan.secret|Andidjan.secret]] 
+
+### #is_/same_as :: [Andidjan](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.md) 
+
+### #is_/same_as :: [Andidjan.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.public.md) 
+
+### #is_/same_as :: [Andidjan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.internal.md) 
+
+### #is_/same_as :: [Andidjan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.protect.md) 
+
+### #is_/same_as :: [Andidjan.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.private.md) 
+
+### #is_/same_as :: [Andidjan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.personal.md) 
+
+### #is_/same_as :: [Andidjan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.secret.md)
+

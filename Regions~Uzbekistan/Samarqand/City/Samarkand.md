@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.65,66.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Samarkand|Samarkand]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Samarkand.public|Samarkand.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Samarkand.internal|Samarkand.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Samarkand.protect|Samarkand.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Samarkand.private|Samarkand.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Samarkand.personal|Samarkand.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Samarkand.secret|Samarkand.secret]] 
+
+### #is_/same_as :: [Samarkand](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.md) 
+
+### #is_/same_as :: [Samarkand.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.public.md) 
+
+### #is_/same_as :: [Samarkand.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.internal.md) 
+
+### #is_/same_as :: [Samarkand.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.protect.md) 
+
+### #is_/same_as :: [Samarkand.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.private.md) 
+
+### #is_/same_as :: [Samarkand.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.personal.md) 
+
+### #is_/same_as :: [Samarkand.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.secret.md)
+

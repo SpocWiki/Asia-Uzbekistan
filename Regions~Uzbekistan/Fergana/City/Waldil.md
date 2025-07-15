@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.17,71.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Waldil|Waldil]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Waldil.public|Waldil.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Waldil.internal|Waldil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Waldil.protect|Waldil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Waldil.private|Waldil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Waldil.personal|Waldil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Waldil.secret|Waldil.secret]] 
+
+### #is_/same_as :: [Waldil](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.md) 
+
+### #is_/same_as :: [Waldil.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.public.md) 
+
+### #is_/same_as :: [Waldil.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.internal.md) 
+
+### #is_/same_as :: [Waldil.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.protect.md) 
+
+### #is_/same_as :: [Waldil.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.private.md) 
+
+### #is_/same_as :: [Waldil.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.personal.md) 
+
+### #is_/same_as :: [Waldil.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.secret.md)
+

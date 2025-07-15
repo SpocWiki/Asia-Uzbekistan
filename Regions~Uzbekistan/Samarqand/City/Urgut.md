@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.53,67.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Urgut|Urgut]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Urgut.public|Urgut.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Urgut.internal|Urgut.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Urgut.protect|Urgut.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Urgut.private|Urgut.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Urgut.personal|Urgut.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Urgut.secret|Urgut.secret]] 
+
+### #is_/same_as :: [Urgut](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.md) 
+
+### #is_/same_as :: [Urgut.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.public.md) 
+
+### #is_/same_as :: [Urgut.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.internal.md) 
+
+### #is_/same_as :: [Urgut.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.protect.md) 
+
+### #is_/same_as :: [Urgut.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.private.md) 
+
+### #is_/same_as :: [Urgut.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.personal.md) 
+
+### #is_/same_as :: [Urgut.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.secret.md)
+

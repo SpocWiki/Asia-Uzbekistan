@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.88,69.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Piskent|Piskent]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Piskent.public|Piskent.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Piskent.internal|Piskent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Piskent.protect|Piskent.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Piskent.private|Piskent.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Piskent.personal|Piskent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Piskent.secret|Piskent.secret]] 
+
+### #is_/same_as :: [Piskent](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.md) 
+
+### #is_/same_as :: [Piskent.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.public.md) 
+
+### #is_/same_as :: [Piskent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.internal.md) 
+
+### #is_/same_as :: [Piskent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.protect.md) 
+
+### #is_/same_as :: [Piskent.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.private.md) 
+
+### #is_/same_as :: [Piskent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.personal.md) 
+
+### #is_/same_as :: [Piskent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.secret.md)
+

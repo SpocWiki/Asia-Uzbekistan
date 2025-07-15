@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.25,65.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kenimekh|Kenimekh]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kenimekh.public|Kenimekh.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kenimekh.internal|Kenimekh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kenimekh.protect|Kenimekh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kenimekh.private|Kenimekh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kenimekh.personal|Kenimekh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kenimekh.secret|Kenimekh.secret]] 
+
+### #is_/same_as :: [Kenimekh](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.md) 
+
+### #is_/same_as :: [Kenimekh.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.public.md) 
+
+### #is_/same_as :: [Kenimekh.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.internal.md) 
+
+### #is_/same_as :: [Kenimekh.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.protect.md) 
+
+### #is_/same_as :: [Kenimekh.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.private.md) 
+
+### #is_/same_as :: [Kenimekh.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.personal.md) 
+
+### #is_/same_as :: [Kenimekh.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.secret.md)
+

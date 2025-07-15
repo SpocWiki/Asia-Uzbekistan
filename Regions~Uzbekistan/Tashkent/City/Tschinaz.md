@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.93,68.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Tschinaz|Tschinaz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschinaz.public|Tschinaz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschinaz.internal|Tschinaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschinaz.protect|Tschinaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschinaz.private|Tschinaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschinaz.personal|Tschinaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschinaz.secret|Tschinaz.secret]] 
+
+### #is_/same_as :: [Tschinaz](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.md) 
+
+### #is_/same_as :: [Tschinaz.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.public.md) 
+
+### #is_/same_as :: [Tschinaz.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.internal.md) 
+
+### #is_/same_as :: [Tschinaz.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.protect.md) 
+
+### #is_/same_as :: [Tschinaz.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.private.md) 
+
+### #is_/same_as :: [Tschinaz.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.personal.md) 
+
+### #is_/same_as :: [Tschinaz.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.secret.md)
+

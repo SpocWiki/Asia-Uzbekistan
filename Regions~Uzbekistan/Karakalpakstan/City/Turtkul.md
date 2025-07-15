@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.47,61.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Turtkul|Turtkul]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Turtkul.public|Turtkul.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Turtkul.internal|Turtkul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Turtkul.protect|Turtkul.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Turtkul.private|Turtkul.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Turtkul.personal|Turtkul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Turtkul.secret|Turtkul.secret]] 
+
+### #is_/same_as :: [Turtkul](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.md) 
+
+### #is_/same_as :: [Turtkul.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.public.md) 
+
+### #is_/same_as :: [Turtkul.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.internal.md) 
+
+### #is_/same_as :: [Turtkul.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.protect.md) 
+
+### #is_/same_as :: [Turtkul.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.private.md) 
+
+### #is_/same_as :: [Turtkul.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.personal.md) 
+
+### #is_/same_as :: [Turtkul.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.secret.md)
+

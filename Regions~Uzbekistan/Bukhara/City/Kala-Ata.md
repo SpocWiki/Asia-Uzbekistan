@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.88,63.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Sweden/City/Kala-Ata|Kala-Ata]] 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kala-Ata.public|Kala-Ata.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kala-Ata.internal|Kala-Ata.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kala-Ata.protect|Kala-Ata.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kala-Ata.private|Kala-Ata.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kala-Ata.personal|Kala-Ata.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kala-Ata.secret|Kala-Ata.secret]] 
+
+### #is_/same_as :: [Kala-Ata](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.md) 
+
+### #is_/same_as :: [Kala-Ata.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.public.md) 
+
+### #is_/same_as :: [Kala-Ata.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.internal.md) 
+
+### #is_/same_as :: [Kala-Ata.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.protect.md) 
+
+### #is_/same_as :: [Kala-Ata.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.private.md) 
+
+### #is_/same_as :: [Kala-Ata.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.personal.md) 
+
+### #is_/same_as :: [Kala-Ata.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.secret.md)
+
