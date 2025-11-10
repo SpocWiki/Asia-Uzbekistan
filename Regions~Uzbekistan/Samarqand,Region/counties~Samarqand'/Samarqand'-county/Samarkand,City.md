@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Samarkand
+has_id_wikidata: Q5753
 location:
   - 39.65
   - 66.97
@@ -12,7 +15,6 @@ tags:
 SpocWebEntityId: 33905
 isDeleted: false
 confidential: public
-has_id_wikidata: Q5753
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Ganja,131290]]"
   - "[[_Standards/WikiData/WD~Nishapur,131350]]"
@@ -112,6 +114,7 @@ Country :: [[Russia]]
 [StateId::] 
 [Population::] 
 [Unknown::] 
+
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Samarkand,5753|WD~Samarkand,5753]] 
 
 ## #has_/map 

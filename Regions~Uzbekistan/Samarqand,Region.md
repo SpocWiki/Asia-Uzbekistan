@@ -13,7 +13,7 @@ confidential: public
 tags:
   - geo/Country/Region
 aliases:
-  - Samarkand
+  - Samarkand Region
 Languages:
   - de
 cssclasses:
@@ -26,15 +26,20 @@ publishDate:
 expiryDate:
 ---
 
-# Samarkand
+# [[Samarqand,Region]] 
+
+## #has_/map 
 
 ```leaflet
-id: Samarkand
+id: Samarqand,Region
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Samarkand/
-markerFolder: ./Samarkand/
+geojsonFolder: ./Samarqand,Region/
+markerFolder: ./Samarqand,Region/
+coordinates: [[Samarqand,Region]] 
+markerFile: [[Samarqand,Region]] 
+defaultZoom: 11 
 ```
 
 
