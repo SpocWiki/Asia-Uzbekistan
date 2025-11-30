@@ -3,21 +3,23 @@ aliases:
   - Tashkent
   - Toshkent
   - Taschkent
+  - Shashâ€œ, â€žChachâ€œ oder â€žBinkat
 has_id_wikidata: Q269
-location: [41.33,69.3] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 41.33
+  - 69.3
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34773
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 cssclasses:
   - geo-City
 publish: true
@@ -59,10 +61,10 @@ enclave_within: "[[_Standards/WikiData/WD~Tashkent_Region,487585]]"
 shares_border_with: "[[_Standards/WikiData/WD~Tashkent_Region,487585]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Encyclopï¿½dia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopï¿½dia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -130,8 +132,8 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Toshkent%2
 official_website: https://tashkent.uz
 licence_plate_code:
   - (10
-  - 01—09
-  - 30 — ??????)
+  - 01ï¿½09
+  - 30 ï¿½ ??????)
 U_S_National_Archives_Identifier: "10045046"
 Telegram_username: poytaxt_uz
 Commons_gallery: Toshkent
@@ -148,6 +150,9 @@ native_label:
   - Toshkent
 coordinate_location: Point(69.279722222 41.311111111)
 ---
+
+# [[Tashkent,City]] 
+
 [geo-lon::69.3] 
 [geo-lat::41.33] 
 [name::Taschkent] 
@@ -156,21 +161,17 @@ Country :: [[../../../../Uzbekistan]]
 [StateId::] 
 [Population::] 
 [Unknown::] 
-
-# [[Tashkent,Region]]
-
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Tashkent,269|WD~Tashkent,269]] 
 
 ## #has_/map 
 
 ```leaflet
-id: Taschkent
-coordinates: [[Taschkent]] 
-markerFile: [[Taschkent]] 
+id: Tashkent,City
+coordinates: [[Tashkent,City]] 
+markerFile: [[Tashkent,City]] 
 maxZoom: 18
-geojsonFolder: ./Tashkent//
-markerFolder: ./Tashkent/
-coordinates: [[Tashkent]] 
-markerFile: [[Tashkent]] 
+geojsonFolder: ./Tashkent,City//
+markerFolder: ./Tashkent,City/
 defaultZoom: 9 
 ```
 
@@ -207,7 +208,7 @@ defaultZoom: 9
 > reflecting significant progress in education, healthcare, and living standards. 
 > 
 > Economically, Tashkent was the leading contributor to the national GDP, 
-> accounting for 19% of Uzbekistan’s GDP in the first half of 2024. 
+> accounting for 19% of Uzbekistans GDP in the first half of 2024. 
 > 
 > This economic dominance is supported by ongoing infrastructure development 
 > and urban modernization projects aimed at enhancing its role as a financial and commercial hub. 

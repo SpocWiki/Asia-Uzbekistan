@@ -29,18 +29,17 @@ expiryDate:
 
 # [[Tashkent,Region]]
 
-
 ## #has_/map 
 
 ```leaflet
-id: Tashkent
+id: Tashkent,Region
 zoomFeatures: false 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tashkent//
-markerFolder: ./Tashkent/
-coordinates: [[Tashkent]] 
-markerFile: [[Tashkent]] 
+geojsonFolder: ./Tashkent,Region//
+markerFolder: ./Tashkent,Region/
+coordinates: [[Tashkent,Region]] 
+markerFile: [[Tashkent,Region]] 
 defaultZoom: 9 
 ```
 
