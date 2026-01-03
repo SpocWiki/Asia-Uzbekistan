@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buchara=Bukhara](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara|Buchara=Bukhara]] 
 
-### #is_/same_as :: [Buchara=Bukhara.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.public|Buchara=Bukhara.public]] 
 
-### #is_/same_as :: [Buchara=Bukhara.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.internal|Buchara=Bukhara.internal]] 
 
-### #is_/same_as :: [Buchara=Bukhara.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.protect|Buchara=Bukhara.protect]] 
 
-### #is_/same_as :: [Buchara=Bukhara.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.private|Buchara=Bukhara.private]] 
 
-### #is_/same_as :: [Buchara=Bukhara.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.personal|Buchara=Bukhara.personal]] 
 
-### #is_/same_as :: [Buchara=Bukhara.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Buchara=Bukhara.secret|Buchara=Bukhara.secret]] 
 

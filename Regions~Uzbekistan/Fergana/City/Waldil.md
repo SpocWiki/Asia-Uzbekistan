@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waldil](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil|Waldil]] 
 
-### #is_/same_as :: [Waldil.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.public|Waldil.public]] 
 
-### #is_/same_as :: [Waldil.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.internal|Waldil.internal]] 
 
-### #is_/same_as :: [Waldil.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.protect|Waldil.protect]] 
 
-### #is_/same_as :: [Waldil.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.private|Waldil.private]] 
 
-### #is_/same_as :: [Waldil.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.personal|Waldil.personal]] 
 
-### #is_/same_as :: [Waldil.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Waldil.secret|Waldil.secret]] 
 

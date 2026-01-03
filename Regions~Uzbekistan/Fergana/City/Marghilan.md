@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marghilan](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan|Marghilan]] 
 
-### #is_/same_as :: [Marghilan.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.public|Marghilan.public]] 
 
-### #is_/same_as :: [Marghilan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.internal|Marghilan.internal]] 
 
-### #is_/same_as :: [Marghilan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.protect|Marghilan.protect]] 
 
-### #is_/same_as :: [Marghilan.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.private|Marghilan.private]] 
 
-### #is_/same_as :: [Marghilan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.personal|Marghilan.personal]] 
 
-### #is_/same_as :: [Marghilan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Fergana/City/Marghilan.secret|Marghilan.secret]] 
 

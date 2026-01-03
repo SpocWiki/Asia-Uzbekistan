@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kenimekh](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh|Kenimekh]] 
 
-### #is_/same_as :: [Kenimekh.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.public|Kenimekh.public]] 
 
-### #is_/same_as :: [Kenimekh.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.internal|Kenimekh.internal]] 
 
-### #is_/same_as :: [Kenimekh.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.protect|Kenimekh.protect]] 
 
-### #is_/same_as :: [Kenimekh.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.private|Kenimekh.private]] 
 
-### #is_/same_as :: [Kenimekh.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.personal|Kenimekh.personal]] 
 
-### #is_/same_as :: [Kenimekh.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Kenimekh.secret|Kenimekh.secret]] 
 

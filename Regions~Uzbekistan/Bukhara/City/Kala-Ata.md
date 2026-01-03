@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kala-Ata](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata|Kala-Ata]] 
 
-### #is_/same_as :: [Kala-Ata.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.public|Kala-Ata.public]] 
 
-### #is_/same_as :: [Kala-Ata.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.internal|Kala-Ata.internal]] 
 
-### #is_/same_as :: [Kala-Ata.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.protect|Kala-Ata.protect]] 
 
-### #is_/same_as :: [Kala-Ata.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.private|Kala-Ata.private]] 
 
-### #is_/same_as :: [Kala-Ata.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.personal|Kala-Ata.personal]] 
 
-### #is_/same_as :: [Kala-Ata.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Bukhara/City/Kala-Ata.secret|Kala-Ata.secret]] 
 

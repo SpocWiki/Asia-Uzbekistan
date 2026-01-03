@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bek_Budi](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi|Bek_Budi]] 
 
-### #is_/same_as :: [Bek_Budi.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.public|Bek_Budi.public]] 
 
-### #is_/same_as :: [Bek_Budi.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.internal|Bek_Budi.internal]] 
 
-### #is_/same_as :: [Bek_Budi.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.protect|Bek_Budi.protect]] 
 
-### #is_/same_as :: [Bek_Budi.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.private|Bek_Budi.private]] 
 
-### #is_/same_as :: [Bek_Budi.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.personal|Bek_Budi.personal]] 
 
-### #is_/same_as :: [Bek_Budi.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Kashkadarya/City/Bek_Budi.secret|Bek_Budi.secret]] 
 

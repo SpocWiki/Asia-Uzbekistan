@@ -40,17 +40,17 @@ markerFolder: ./Sirdaryo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sirdaryo](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo|Sirdaryo]] 
 
-### #is_/same_as :: [Sirdaryo.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.public|Sirdaryo.public]] 
 
-### #is_/same_as :: [Sirdaryo.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.internal|Sirdaryo.internal]] 
 
-### #is_/same_as :: [Sirdaryo.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.protect|Sirdaryo.protect]] 
 
-### #is_/same_as :: [Sirdaryo.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.private|Sirdaryo.private]] 
 
-### #is_/same_as :: [Sirdaryo.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.personal|Sirdaryo.personal]] 
 
-### #is_/same_as :: [Sirdaryo.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Sirdaryo.secret|Sirdaryo.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Surkhandarya/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surxondaryo](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo|Surxondaryo]] 
 
-### #is_/same_as :: [Surxondaryo.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.public|Surxondaryo.public]] 
 
-### #is_/same_as :: [Surxondaryo.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.internal|Surxondaryo.internal]] 
 
-### #is_/same_as :: [Surxondaryo.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.protect|Surxondaryo.protect]] 
 
-### #is_/same_as :: [Surxondaryo.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.private|Surxondaryo.private]] 
 
-### #is_/same_as :: [Surxondaryo.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.personal|Surxondaryo.personal]] 
 
-### #is_/same_as :: [Surxondaryo.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo.secret|Surxondaryo.secret]] 
 

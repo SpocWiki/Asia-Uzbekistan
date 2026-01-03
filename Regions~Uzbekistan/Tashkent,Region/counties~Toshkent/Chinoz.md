@@ -50,19 +50,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chinoz)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tschinaz](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Chinoz|Chinoz]] 
 
-### #is_/same_as :: [Tschinaz.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Chinoz.public|Chinoz.public]] 
 
-### #is_/same_as :: [Tschinaz.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Chinoz.internal|Chinoz.internal]] 
 
-### #is_/same_as :: [Tschinaz.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Chinoz.protect|Chinoz.protect]] 
 
-### #is_/same_as :: [Tschinaz.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Chinoz.private|Chinoz.private]] 
 
-### #is_/same_as :: [Tschinaz.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Chinoz.personal|Chinoz.personal]] 
 
-### #is_/same_as :: [Tschinaz.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Tschinaz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Chinoz.secret|Chinoz.secret]] 
 

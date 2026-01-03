@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turtkul](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul|Turtkul]] 
 
-### #is_/same_as :: [Turtkul.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.public|Turtkul.public]] 
 
-### #is_/same_as :: [Turtkul.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.internal|Turtkul.internal]] 
 
-### #is_/same_as :: [Turtkul.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.protect|Turtkul.protect]] 
 
-### #is_/same_as :: [Turtkul.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.private|Turtkul.private]] 
 
-### #is_/same_as :: [Turtkul.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.personal|Turtkul.personal]] 
 
-### #is_/same_as :: [Turtkul.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Turtkul.secret|Turtkul.secret]] 
 

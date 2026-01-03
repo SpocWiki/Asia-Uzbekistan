@@ -53,19 +53,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Urgut)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Urgut](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Urgut/Urgut,City|Urgut,City]] 
 
-### #is_/same_as :: [Urgut.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Urgut/Urgut,City.public|Urgut,City.public]] 
 
-### #is_/same_as :: [Urgut.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Urgut/Urgut,City.internal|Urgut,City.internal]] 
 
-### #is_/same_as :: [Urgut.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Urgut/Urgut,City.protect|Urgut,City.protect]] 
 
-### #is_/same_as :: [Urgut.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Urgut/Urgut,City.private|Urgut,City.private]] 
 
-### #is_/same_as :: [Urgut.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Urgut/Urgut,City.personal|Urgut,City.personal]] 
 
-### #is_/same_as :: [Urgut.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Urgut.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Urgut/Urgut,City.secret|Urgut,City.secret]] 
 

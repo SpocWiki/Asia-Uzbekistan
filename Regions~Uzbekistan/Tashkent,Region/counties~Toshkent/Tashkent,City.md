@@ -225,21 +225,19 @@ defaultZoom: 9
 > [Wikipedia](https://en.wikipedia.org/wiki/Tashkent)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taschkent](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Tashkent,City|Tashkent,City]] 
 
-### #is_/same_as :: [Taschkent.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Tashkent,City.public|Tashkent,City.public]] 
 
-### #is_/same_as :: [Taschkent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Tashkent,City.internal|Tashkent,City.internal]] 
 
-### #is_/same_as :: [Taschkent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Tashkent,City.protect|Tashkent,City.protect]] 
 
-### #is_/same_as :: [Taschkent.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Tashkent,City.private|Tashkent,City.private]] 
 
-### #is_/same_as :: [Taschkent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Tashkent,City.personal|Tashkent,City.personal]] 
 
-### #is_/same_as :: [Taschkent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Taschkent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Tashkent,City.secret|Tashkent,City.secret]] 
 

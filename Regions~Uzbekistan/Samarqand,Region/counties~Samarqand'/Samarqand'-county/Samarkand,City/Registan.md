@@ -36,3 +36,20 @@ directions: Registon maydoni
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Registan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City/Registan|Registan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City/Registan.public|Registan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City/Registan.internal|Registan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City/Registan.protect|Registan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City/Registan.private|Registan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City/Registan.personal|Registan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City/Registan.secret|Registan.secret]] 
+

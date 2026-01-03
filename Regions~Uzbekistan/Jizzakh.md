@@ -40,17 +40,17 @@ markerFolder: ./Jizzakh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jizzakh](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh|Jizzakh]] 
 
-### #is_/same_as :: [Jizzakh.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.public|Jizzakh.public]] 
 
-### #is_/same_as :: [Jizzakh.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.internal|Jizzakh.internal]] 
 
-### #is_/same_as :: [Jizzakh.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.protect|Jizzakh.protect]] 
 
-### #is_/same_as :: [Jizzakh.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.private|Jizzakh.private]] 
 
-### #is_/same_as :: [Jizzakh.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.personal|Jizzakh.personal]] 
 
-### #is_/same_as :: [Jizzakh.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Jizzakh.secret|Jizzakh.secret]] 
 

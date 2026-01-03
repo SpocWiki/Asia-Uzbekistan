@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uzbekskaja](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja|Uzbekskaja]] 
 
-### #is_/same_as :: [Uzbekskaja.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.public|Uzbekskaja.public]] 
 
-### #is_/same_as :: [Uzbekskaja.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.internal|Uzbekskaja.internal]] 
 
-### #is_/same_as :: [Uzbekskaja.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.protect|Uzbekskaja.protect]] 
 
-### #is_/same_as :: [Uzbekskaja.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.private|Uzbekskaja.private]] 
 
-### #is_/same_as :: [Uzbekskaja.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.personal|Uzbekskaja.personal]] 
 
-### #is_/same_as :: [Uzbekskaja.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy/City/Uzbekskaja.secret|Uzbekskaja.secret]] 
 

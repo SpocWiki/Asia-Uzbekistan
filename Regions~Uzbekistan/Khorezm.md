@@ -40,17 +40,17 @@ markerFolder: ./Khorezm/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khorezm](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm|Khorezm]] 
 
-### #is_/same_as :: [Khorezm.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.public|Khorezm.public]] 
 
-### #is_/same_as :: [Khorezm.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.internal|Khorezm.internal]] 
 
-### #is_/same_as :: [Khorezm.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.protect|Khorezm.protect]] 
 
-### #is_/same_as :: [Khorezm.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.private|Khorezm.private]] 
 
-### #is_/same_as :: [Khorezm.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.personal|Khorezm.personal]] 
 
-### #is_/same_as :: [Khorezm.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Khorezm.secret|Khorezm.secret]] 
 

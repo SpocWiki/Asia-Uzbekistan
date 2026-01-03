@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Andidjan](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan|Andidjan]] 
 
-### #is_/same_as :: [Andidjan.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.public|Andidjan.public]] 
 
-### #is_/same_as :: [Andidjan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.internal|Andidjan.internal]] 
 
-### #is_/same_as :: [Andidjan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.protect|Andidjan.protect]] 
 
-### #is_/same_as :: [Andidjan.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.private|Andidjan.private]] 
 
-### #is_/same_as :: [Andidjan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.personal|Andidjan.personal]] 
 
-### #is_/same_as :: [Andidjan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Andijan/City/Andidjan.secret|Andidjan.secret]] 
 

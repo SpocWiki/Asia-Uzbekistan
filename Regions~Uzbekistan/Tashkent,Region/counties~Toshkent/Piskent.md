@@ -43,19 +43,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Piskent) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piskent](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Piskent|Piskent]] 
 
-### #is_/same_as :: [Piskent.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Piskent.public|Piskent.public]] 
 
-### #is_/same_as :: [Piskent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Piskent.internal|Piskent.internal]] 
 
-### #is_/same_as :: [Piskent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Piskent.protect|Piskent.protect]] 
 
-### #is_/same_as :: [Piskent.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Piskent.private|Piskent.private]] 
 
-### #is_/same_as :: [Piskent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Piskent.personal|Piskent.personal]] 
 
-### #is_/same_as :: [Piskent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent/City/Piskent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region/counties~Toshkent/Piskent.secret|Piskent.secret]] 
 

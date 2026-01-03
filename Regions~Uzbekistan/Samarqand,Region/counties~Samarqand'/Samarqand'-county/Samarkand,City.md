@@ -167,17 +167,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samarkand](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City|Samarkand,City]] 
 
-### #is_/same_as :: [Samarkand.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City.public|Samarkand,City.public]] 
 
-### #is_/same_as :: [Samarkand.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City.internal|Samarkand,City.internal]] 
 
-### #is_/same_as :: [Samarkand.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City.protect|Samarkand,City.protect]] 
 
-### #is_/same_as :: [Samarkand.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City.private|Samarkand,City.private]] 
 
-### #is_/same_as :: [Samarkand.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City.personal|Samarkand,City.personal]] 
 
-### #is_/same_as :: [Samarkand.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand/City/Samarkand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Samarqand,Region/counties~Samarqand'/Samarqand'-county/Samarkand,City.secret|Samarkand,City.secret]] 
 

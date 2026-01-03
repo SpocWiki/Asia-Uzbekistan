@@ -93,21 +93,19 @@ defaultZoom: 9
 > [Wikipedia](https://en.wikipedia.org/wiki/Tashkent)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tashkent](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region|Tashkent,Region]] 
 
-### #is_/same_as :: [Tashkent.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region.public|Tashkent,Region.public]] 
 
-### #is_/same_as :: [Tashkent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region.internal|Tashkent,Region.internal]] 
 
-### #is_/same_as :: [Tashkent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region.protect|Tashkent,Region.protect]] 
 
-### #is_/same_as :: [Tashkent.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region.private|Tashkent,Region.private]] 
 
-### #is_/same_as :: [Tashkent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region.personal|Tashkent,Region.personal]] 
 
-### #is_/same_as :: [Tashkent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Tashkent,Region.secret|Tashkent,Region.secret]] 
 

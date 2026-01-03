@@ -40,17 +40,17 @@ markerFolder: ./Karakalpakstan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karakalpakstan](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan|Karakalpakstan]] 
 
-### #is_/same_as :: [Karakalpakstan.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.public|Karakalpakstan.public]] 
 
-### #is_/same_as :: [Karakalpakstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.internal|Karakalpakstan.internal]] 
 
-### #is_/same_as :: [Karakalpakstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.protect|Karakalpakstan.protect]] 
 
-### #is_/same_as :: [Karakalpakstan.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.private|Karakalpakstan.private]] 
 
-### #is_/same_as :: [Karakalpakstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.personal|Karakalpakstan.personal]] 
 
-### #is_/same_as :: [Karakalpakstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan.secret|Karakalpakstan.secret]] 
 

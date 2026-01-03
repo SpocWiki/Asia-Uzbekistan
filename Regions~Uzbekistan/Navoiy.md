@@ -40,17 +40,17 @@ markerFolder: ./Navoi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Navoiy](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy|Navoiy]] 
 
-### #is_/same_as :: [Navoiy.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.public|Navoiy.public]] 
 
-### #is_/same_as :: [Navoiy.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.internal|Navoiy.internal]] 
 
-### #is_/same_as :: [Navoiy.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.protect|Navoiy.protect]] 
 
-### #is_/same_as :: [Navoiy.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.private|Navoiy.private]] 
 
-### #is_/same_as :: [Navoiy.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.personal|Navoiy.personal]] 
 
-### #is_/same_as :: [Navoiy.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Navoiy.secret|Navoiy.secret]] 
 

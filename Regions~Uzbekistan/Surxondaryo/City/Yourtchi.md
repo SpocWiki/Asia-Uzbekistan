@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yourtchi](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi|Yourtchi]] 
 
-### #is_/same_as :: [Yourtchi.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.public|Yourtchi.public]] 
 
-### #is_/same_as :: [Yourtchi.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.internal|Yourtchi.internal]] 
 
-### #is_/same_as :: [Yourtchi.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.protect|Yourtchi.protect]] 
 
-### #is_/same_as :: [Yourtchi.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.private|Yourtchi.private]] 
 
-### #is_/same_as :: [Yourtchi.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.personal|Yourtchi.personal]] 
 
-### #is_/same_as :: [Yourtchi.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Surxondaryo/City/Yourtchi.secret|Yourtchi.secret]] 
 

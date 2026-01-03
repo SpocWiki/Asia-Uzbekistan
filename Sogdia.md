@@ -49,3 +49,20 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sogdian%20WV%20B
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sogdia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Sogdia|Sogdia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Sogdia.public|Sogdia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Sogdia.internal|Sogdia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Sogdia.protect|Sogdia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Sogdia.private|Sogdia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Sogdia.personal|Sogdia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Sogdia.secret|Sogdia.secret]] 
+

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nukus](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus|Nukus]] 
 
-### #is_/same_as :: [Nukus.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.public|Nukus.public]] 
 
-### #is_/same_as :: [Nukus.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.internal|Nukus.internal]] 
 
-### #is_/same_as :: [Nukus.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.protect|Nukus.protect]] 
 
-### #is_/same_as :: [Nukus.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.private|Nukus.private]] 
 
-### #is_/same_as :: [Nukus.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.personal|Nukus.personal]] 
 
-### #is_/same_as :: [Nukus.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan/Regions~Uzbekistan/Karakalpakstan/City/Nukus.secret|Nukus.secret]] 
 
