@@ -119,7 +119,7 @@ markerFolder: .///
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::UZ] 
-Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]  
+Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent|Taschkent]]  
 
 ![[Uzbekistan/Emblem_of_Uzbekistan.svg|350]] 
 

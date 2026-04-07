@@ -1,18 +1,18 @@
 ---
 aliases:
 has_id_wikidata: Q486244
-instance_of: "[[_Standards/WikiData/WD~region,82794]]"
+instance_of: "[[_Standards/WikiData/WD~region,82794|WD~region,82794]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~History_of_Northern_Dynasties,1188548]]"
-  - "[[_Standards/WikiData/WD~Book_of_Zhou,1285731]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-part_of: "[[_Standards/WikiData/WD~Western_Regions,1190423]]"
-ethnic_group: "[[_Standards/WikiData/WD~Sogdo,1299584]]"
-different_from: "[[_Standards/WikiData/WD~Sogdiana,30752192]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~History_of_Northern_Dynasties,1188548|WD~History_of_Northern_Dynasties,1188548]]"
+  - "[[_Standards/WikiData/WD~Book_of_Zhou,1285731|WD~Book_of_Zhou,1285731]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+part_of: "[[_Standards/WikiData/WD~Western_Regions,1190423|WD~Western_Regions,1190423]]"
+ethnic_group: "[[_Standards/WikiData/WD~Sogdo,1299584|WD~Sogdo,1299584]]"
+different_from: "[[_Standards/WikiData/WD~Sogdiana,30752192|WD~Sogdiana,30752192]]"
 coordinate_location: Point(69.4 40.4)
-capital: "[[_Standards/WikiData/WD~Samarkand,5753]]"
+capital: "[[_Standards/WikiData/WD~Samarkand,5753|WD~Samarkand,5753]]"
 Commons_category: Sogdia
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sogdiana-300BCE.png
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Sogdia.jpg
