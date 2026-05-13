@@ -222,7 +222,7 @@ defaultZoom: 9
 > In 2009, it celebrated 2,200 years of its written history. 
 > The master plan of Tashkent until 2045 was approved.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tashkent)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tashkent) 
 
 
 ## Confidential Links & Embeds: 

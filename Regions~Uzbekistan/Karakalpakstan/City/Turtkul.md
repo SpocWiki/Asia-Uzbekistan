@@ -28,7 +28,7 @@ coordinates: [[Turtkul]]
 markerFile: [[Turtkul]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

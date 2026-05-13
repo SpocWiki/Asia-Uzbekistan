@@ -162,7 +162,7 @@ maxZoom: 18
 >
 > Samarkand has a multicultural and plurilingual history that was significantly modified by the process of national delimitation in Central Asia. Many inhabitants of the city are native or bilingual speakers of the Tajik language, whereas Uzbek is the official language and Russian is also widely used in the public sphere, as per Uzbekistan's language policy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Samarkand)
+> [Wikipedia](https://en.wikipedia.org/wiki/Samarkand) 
 
 
 ## Confidential Links & Embeds: 

@@ -28,7 +28,7 @@ coordinates: [[Uzbekskaja]]
 markerFile: [[Uzbekskaja]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

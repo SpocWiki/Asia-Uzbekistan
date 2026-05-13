@@ -40,7 +40,7 @@ markerFolder: ./Samarqand,Region/
 coordinates: [[Samarqand,Region]] 
 markerFile: [[Samarqand,Region]] 
 defaultZoom: 11 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -48,7 +48,7 @@ maxZoom: 18
 > 
 > Its population is 23,700 (2016).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chinoz)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chinoz) 
 
 
 ## Confidential Links & Embeds: 

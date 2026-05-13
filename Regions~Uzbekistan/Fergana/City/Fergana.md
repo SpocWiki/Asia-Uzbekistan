@@ -28,7 +28,7 @@ coordinates: [[Fergana]]
 markerFile: [[Fergana]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

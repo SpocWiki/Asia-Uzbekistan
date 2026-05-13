@@ -51,7 +51,7 @@ maxZoom: 18
 >
 > Recent years, Urgut has been attracting foreign visitors due to its gorgeous mountains, ancient Chorchinor garden and the famous Urgut bazaar.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Urgut)
+> [Wikipedia](https://en.wikipedia.org/wiki/Urgut) 
 
 
 ## Confidential Links & Embeds: 

@@ -28,7 +28,7 @@ coordinates: [[Buchara=Bukhara]]
 markerFile: [[Buchara=Bukhara]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
