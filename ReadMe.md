@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 乌兹别克斯坦共和国
 dv_UNTERM_French_Formal: la République d'Ouzbékistan
 dv_UNTERM_Russian: Узбекистан
 dv_UNTERM_Russian_Formal: Республика Узбекистан
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Uzbekistan]]'
 dv_Sub-region_Name: '[[Central Asia]]'
 dv_Region: 142
@@ -53,7 +53,7 @@ dv_ISO2: UZ
 dv_ISO3: UZB
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+  - '[[../../../../../WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan|Uzbekistan]]'
   - '[[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.public|Uzbekistan.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal|Uzbekistan.internal]]'
@@ -359,17 +359,17 @@ dv_has_:
 dv_has_name_de: Usbekistan
 dv_Area-Total: 447400
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: UZ
-dv_Capital: '[[Uzbekistan/Counties/Tashkent/City/Taschkent|Taschkent]]'
+dv_Capital: '[[Counties/Tashkent/City/Taschkent|Taschkent]]'
 dv_Alcohol-l: 3.5
 dv_Language-Id: 469
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 69.3
 dv_has_place_latitude: 41.33
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
+- '[[../../../../../WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan|Uzbekistan]]'
 - '[[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.public|Uzbekistan.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal|Uzbekistan.internal]]'
@@ -553,7 +553,7 @@ ethnic_group:
 - '[[/_Standards/WikiData/WD~Russians_in_Uzbekistan,4400608|WD~Russians_in_Uzbekistan,4400608]]'
 - '[[/_Standards/WikiData/WD~Tatars,35565|WD~Tatars,35565]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
@@ -924,7 +924,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Uzbekistan/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -943,7 +943,7 @@ markerFile: [[Uzbekistan]]
 
 ```leaflet
 id: Uzbekistan_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -969,11 +969,11 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
-![[Uzbekistan/Emblem_of_Uzbekistan.svg|350]]
+![[Emblem_of_Uzbekistan.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Uzbekistan.mp3|Anthem-Uzbekistan.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Uzbekistan.mp3|Anthem-Uzbekistan.mp3]]
 
-![[Uzbekistan/Flag_of_Uzbekistan.svg|350]]
+![[Flag_of_Uzbekistan.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
